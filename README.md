@@ -3,7 +3,7 @@
 I've always loved what smart people can achieve with limited resources. I admire people who code incredible animations, graphics and music in just a few bytes. This repo is simply a listing of links and images to ones I enjoyed most.
 
 
-## 256 byte (or less) 8086 Assembler
+## | 8086
 
 
 ![Floorcast](imgs/floorcast-screenshot.jpg)
@@ -15,7 +15,7 @@ I've always loved what smart people can achieve with limited resources. I admire
 ![Into a New Era](imgs/Intoanew.gif)
 **Into a New Era** - 64 bytes - HellMood: [[Pouet]](https://www.pouet.net/prod.php?which=78044)
 
-## Commodore 64
+## | Commodore 64
 
 The following two are sound demos although they both have some sort of graphics its not its strong side.
 
@@ -25,7 +25,7 @@ The following two are sound demos although they both have some sort of graphics 
 
 **303-ish sound simultaor** - 303 bytes - [[Twitter post]](https://twitter.com/4mat_scenemusic/status/1234985010588839936)
 
-## Web
+## | Javascript
 
 ![Voltra](imgs/voltra.gif)
 
