@@ -15,6 +15,9 @@ I've always loved what smart people can achieve with limited resources. I admire
 ![Into a New Era](imgs/Intoanew.gif)
 **Into a New Era** - 64 bytes - HellMood: [[Pouet]](https://www.pouet.net/prod.php?which=78044)
 
+![Puls](imgs/puls.gif)
+**Puls** - 256 bytes - Rrroa: [[Pouet]](https://www.pouet.net/prod.php?which=53816)
+
 ## | Commodore 64
 
 The following two are sound demos although they both have some sort of graphics its not its strong side.
