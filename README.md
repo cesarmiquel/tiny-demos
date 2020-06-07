@@ -39,7 +39,7 @@ The following two are sound demos although they both have some sort of graphics 
 
 ![A Mind is Born](imgs/amindisborn.png?1)
 
-**A Mind is Born** - 64 bytes - [[YouTube]](https://youtu.be/sWblpsLZ-O8) [[Writeup]](https://linusakesson.net/scene/a-mind-is-born/)
+**A Mind is Born** - 256 bytes - [[YouTube]](https://youtu.be/sWblpsLZ-O8) [[Writeup]](https://linusakesson.net/scene/a-mind-is-born/)
 
 **303-ish sound simultaor** - 303 bytes - [[Twitter post]](https://twitter.com/4mat_scenemusic/status/1234985010588839936)
 
