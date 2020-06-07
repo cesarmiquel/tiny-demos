@@ -31,6 +31,7 @@ I've always loved what smart people can achieve with limited resources. I admire
 - **x86 instruction set reference** - [https://www.felixcloutier.com/x86/](https://www.felixcloutier.com/x86/)
 - **PC Games Programmers Encyclopedia** - The PC-GPE as it currently stands is a collection of text
 files, each covering a different aspect of programming games for the PC. [[pcgpe-1.0]](http://www.gamers.org/dEngine/rsc/pcgpe-1.0/)
+- **Řrřlog website** - [[web]](http://rrrola.wz.cz/)
 
 
 ## | Commodore 64
